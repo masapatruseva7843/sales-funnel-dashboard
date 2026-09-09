@@ -1,0 +1,12 @@
+{
+  "name": "sales-funnel-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Secure Bitrix24 VibeCode sales funnel dashboard",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
