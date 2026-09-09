@@ -1,0 +1,11 @@
+# Local secrets: never commit runtime configuration.
+.env
+.env.*
+!.env.example
+
+# Local tools and generated artifacts.
+.idea/
+node_modules/
+coverage/
+*.zip
+*.tgz
